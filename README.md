@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ryanmcook
+- 👀 I’m interested in Aerospace Engineering!
+- 🌱 I’m currently learning Aerospace Engineering!
+- 💞️ I’m looking to collaborate on Aero 361 projects!
+- 📫 How to reach me - rmcook@iastate.edu, or 763-248-1102
